@@ -1,8 +1,14 @@
 *.pyc
 __pycache__/
 db.sqlite3
+<<<<<<< HEAD
 .vscode/
 emr_env/
 *.pyo
 *.bak
 *.log
+=======
+/media
+/static
+emr_env/    # or whatever your virtual environment directory is named
+>>>>>>> 0d515de470584b6541a2666a7fd2df7547b8d385
