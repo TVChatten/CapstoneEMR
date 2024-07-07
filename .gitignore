@@ -1,5 +1,6 @@
-emr_env/
-__pycache__/
 *.pyc
-*.pyo
-.DS_Store
+__pycache__/
+db.sqlite3
+/media
+/static
+emr_env/    # or whatever your virtual environment directory is named
